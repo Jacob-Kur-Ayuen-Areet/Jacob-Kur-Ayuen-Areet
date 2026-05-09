@@ -1,15 +1,15 @@
 # Hi there 👋 I'm Jacob Kur Ayuen Areet
 
 🎓 Computer Science Student  
-💻 Full-Stack Developer  
+💻 Full-Stack & Mobile App Developer  
 🌍 Passionate about building modern web applications and solving real-world problems with technology.
 
 ---
 
 ## 🚀 About Me
 
-I build responsive and user-friendly web applications using modern technologies like React, Node.js, Express, and PostgreSQL.  
-I enjoy creating clean UI designs, scalable backend systems, and interactive user experiences.
+I build responsive and user-friendly web applications using modern technologies like React, Node.js, Laravel, and PostgreSQL.  
+I also develop mobile applications and enjoy creating scalable backend systems, clean UI designs, and interactive digital experiences.
 
 ---
 
@@ -21,20 +21,29 @@ I enjoy creating clean UI designs, scalable backend systems, and interactive use
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### Frontend Development
 - React.js
 - JavaScript
 - HTML5
 - CSS3
 - Tailwind CSS
 
-### Backend
+### Backend Development
 - Node.js
 - Express.js
+- PHP
+- Laravel
 - REST APIs
+
+### Mobile App Development
+- React Native
+- Flutter
+- Dart
+- Android Development
 
 ### Database & Tools
 - PostgreSQL
+- MySQL
 - Prisma ORM
 - Git & GitHub
 
@@ -64,10 +73,11 @@ A full-stack personal portfolio website built with:
 
 ## 📚 Currently Learning
 
-- Advanced Backend Development
-- System Design
+- Advanced Laravel Development
+- Mobile App Architecture
 - Cloud Deployment
 - TypeScript
+- System Design
 
 ---
 
@@ -75,7 +85,7 @@ A full-stack personal portfolio website built with:
 
 - GitHub: https://github.com/Jacob-Kur-Ayuen-Areet
 - Portfolio: https://portfolio-frontend-3nmq.onrender.com/
-- LinkedIn:  https://www.linkedin.com/in/kur-ayuen-areet-013106368/ 
+- LinkedIn: https://www.linkedin.com/in/kur-ayuen-areet-013106368/
 
 ---
 
